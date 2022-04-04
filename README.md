@@ -1,9 +1,9 @@
-![GYJXWLWX](https://cdn.jsdelivr.net/gh/ThekingMX1998/free-v2ray-code@master/Image/Logo/PAYDAY4478.png)
+![GYJXWLWX](https://cdn.jsdelivr.net/gh/ThekingMX1998/GreenFish@master/Image/Logo/PAYDAY4478.png)
 
 # 每日更新
 
 
-## 喜歡本項目 請點擊右上角[![GitHub Star](https://img.shields.io/github/stars/ThekingMX1998/free-v2ray-code.svg?label=Star&logo=github)](https://github.com/ThekingMX1998/free-v2ray-code)
+## 喜歡本項目 請點擊右上角[![GitHub Star](https://img.shields.io/github/stars/ThekingMX1998/GreenFish.svg?label=Star&logo=github)](https://github.com/ThekingMX1998/GreenFish)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@
 
 🧰[免費美區Apple賬號] `https://free.shadowrocket.online`
 
-📛聲明[點擊查看](https://github.com/ThekingMX1998/free-v2ray-code/blob/none/README.md)
+📛聲明[點擊查看](https://github.com/ThekingMX1998/GreenFish/blob/none/README.md)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -106,7 +106,7 @@ https://dllx.tk/GreenFishYYDS-Clash
 | Qv2ray | v2ray | v2fly | [Qv2ray/Qv2ray/releases](https://github.com/Qv2ray/Qv2ray/releases) |
 | v2rayA | v2ray | v2fly | [v2rayA/v2rayA/releases](https://github.com/v2rayA/v2rayA/releases) |
 | Netch | v2ray | x-ray | [netchx/netch/releases](https://github.com/netchx/netch/releases) |
-| Clash.net | clash | clash-core | [ClashDotNetFramework/ClashDotNetFramework/releases](https://github.com/ThekingMX1998/free-v2ray-code/releases/tag/Clash.NET) |
+| Clash.net | clash | clash-core | [ClashDotNetFramework/ClashDotNetFramework/releases](https://github.com/ThekingMX1998/GreenFish/releases/tag/Clash.NET) |
 | Clash for windows | clash | clash-core | [Fndroid/clash_for_windows_pkg/releases](https://github.com/Fndroid/clash_for_windows_pkg/releases) |
 
 
@@ -201,9 +201,7 @@ https://dllx.tk/GreenFishYYDS-Clash
 
 ## 📢友情推薦📢 
 
-[![ghxi](https://github.com/ThekingMX1998/free-v2ray-code/raw/master/Image/Logo/ghboke-logo.png)](https://ghxi.com)
-[![52bd](https://github.com/ThekingMX1998/free-v2ray-code/raw/master/Image/Logo/52bd-logo.png)](https://www.52bd.net)
-[![kinh](https://github.com/ThekingMX1998/free-v2ray-code/raw/master/Image/Logo/kinh-logo.png)](https://kinh.cc)
-[![wuyong](https://cdn.jsdelivr.net/gh/ThekingMX1998/free-v2ray-code@master/Image/Logo/wuyong-logo.png)](https://wuyong.fun)
-
-
+[![ghxi](https://cdn.jsdelivr.net/gh/ThekingMX1998/GreenFish@master/Image/Logo/ghboke-logo.png)](https://ghxi.com)
+[![52bd](https://cdn.jsdelivr.net/gh/ThekingMX1998/GreenFish@master/Image/Logo/52bd-logo.png)](https://www.52bd.net)
+[![kinh](https://cdn.jsdelivr.net/gh/ThekingMX1998/GreenFish@master/Image/Logo/kinh-logo.png)](https://kinh.cc)
+[![wuyong](https://cdn.jsdelivr.net/gh/ThekingMX1998/GreenFish@master/Image/Logo/wuyong-logo.png)](https://wuyong.fun)
