@@ -1,15 +1,30 @@
-![GYJXWLWX](https://cdn.jsdelivr.net/gh/ThekingMX1998/free-v2ray-code@master/Image/PAYDAY4478.png)
+![GYJXWLWX](https://cdn.jsdelivr.net/gh/ThekingMX1998/free-v2ray-code@master/Image/Logo/PAYDAY4478.png)
 
 # 每日更新
 
 
-## 喜歡本項目 請點擊右上角[![GitHub Star](https://img.shields.io/github/stars/ThekingMX1998/free-v2ray-code.svg?style=flat-square&label=Star&color=00ADD8&logo=github)](https://github.com/ThekingMX1998/free-v2ray-code/)
+## 喜歡本項目 請點擊右上角[![GitHub Star](https://img.shields.io/github/stars/ThekingMX1998/free-v2ray-code.svg?label=Star&logo=github)](https://github.com/ThekingMX1998/free-v2ray-code)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### | [推薦信息](#推薦信息) | [訂閱鏈接](#訂閱鏈接) | [翻牆教程](https://dllx.tk/fqjc) | [免流混淆](https://dllx.tk/mlhx) | [TG語言包](#telegram語言包) | [GitHub鏡像站](#gitHub鏡像站) |
+* * *
 
-#### | [科學上網客戶端](#科學上網客戶端) | [精選VPN推薦](#精選VPN推薦) | [機場推薦](#機場推薦) | [遊戲加速器](#遊戲加速器) | [捐贈地址](#捐贈地址) | [友情推薦](#友情推薦) |
+### 索引
+
+- [推薦信息](#推薦信息)
+- [訂閱鏈接](#訂閱鏈接)
+- [翻牆教程](https://dllx.tk/fqjc)
+- [免流混淆](https://dllx.tk/mlhx)
+- [TG語言包](#telegram語言包)
+- [GitHub鏡像站](#gitHub鏡像站)
+- [科學上網客戶端](#科學上網客戶端)
+- [精選VPN推薦](#精選VPN推薦)
+- [機場推薦](#機場推薦)
+- [遊戲加速器](#遊戲加速器)
+- [捐贈地址](#捐贈地址)
+- [友情推薦](#友情推薦)
+
+* * *
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -19,9 +34,7 @@
 
 📞[TG電報頻道] `https://t.me/payday501`
 
-♾️[機場測速] `http://cs.brink.ga`
-
-♾️[機場測速] `http://sst.brink.ga`
+♾️[機場測速] `http://cs.brink.ga(closed)`
 
 📶[網絡測速]`https://greenfish.dualstack.speedtestcustom.com`
 
@@ -37,13 +50,17 @@
 
 ### v2ray
 
-综合: `https://dllx.tk/GreenFishYYDS`
-
+综合
+```
+https://dllx.tk/GreenFishYYDS
+```
 
 ### Clash
 
-综合: `https://dllx.tk/GreenFishYYDS-Clash`
-
+综合: 
+```
+https://dllx.tk/GreenFishYYDS-Clash
+```
 
 #### PS: 链接中的`dllx`可替换为`dllc` `dlli` `dllo` `dllv`
 
@@ -86,7 +103,8 @@
 | 名称| 类型| 内核| URL|
 | :--- | :--- | :--- | :--- |
 | v2rayN | v2ray | v2fly & x-ray | [2dust/v2rayN/releases](https://github.com/2dust/v2rayN/releases) |
-| WinXray | v2ray | x-ray | [TheMRLL/WinXray/releases](https://github.com/TheMRLL/WinXray/releases) |
+| Qv2ray | v2ray | v2fly | [Qv2ray/Qv2ray/releases](https://github.com/Qv2ray/Qv2ray/releases) |
+| v2rayA | v2ray | v2fly | [v2rayA/v2rayA/releases](https://github.com/v2rayA/v2rayA/releases) |
 | Netch | v2ray | x-ray | [netchx/netch/releases](https://github.com/netchx/netch/releases) |
 | Clash.net | clash | clash-core | [ClashDotNetFramework/ClashDotNetFramework/releases](https://github.com/ThekingMX1998/free-v2ray-code/releases/tag/Clash.NET) |
 | Clash for windows | clash | clash-core | [Fndroid/clash_for_windows_pkg/releases](https://github.com/Fndroid/clash_for_windows_pkg/releases) |
@@ -99,13 +117,14 @@
 | v2rayNG | v2ray | v2fly & xray | [2dust/v2rayNG/releases](https://github.com/2dust/v2rayNG/releases) |
 | AnXray | v2ray | xray | [XTLS/AnXray/releases](https://github.com/XTLS/AnXray/releases) |
 | Clash for android | clash | clash-core | [Kr328/ClashForAndroid/releases](https://github.com/Kr328/ClashForAndroid/releases) |
-| Surfboard | * | * | [manual.getsurfboard.com](https://apkpure.com/surfboard/com.getsurfboard) |
+| Surfboard | * | * | [manual.getsurfboard.com](https://manual.getsurfboard.com) |
 
 
 ### Linux
 | 名称| 类型| 内核| URL|
 | :--- | :--- | :--- | :--- |
 | v2rayA | v2ray | v2fly | [v2rayA/v2rayA/releases](https://github.com/v2rayA/v2rayA/releases) |
+| Qv2ray | v2ray | v2fly | [Qv2ray/Qv2ray/releases](https://github.com/Qv2ray/Qv2ray/releases) |
 
 
 ### MacOS
@@ -115,15 +134,17 @@
 | ClashX | clash | clash | [yichengchen/clashX/releases](https://github.com/yichengchen/clashX/releases) |
 | v2rayU | v2ray | xray | [yanue/V2rayU/releases](https://github.com/yanue/V2rayU/releases) |
 | Qv2ray | v2ray | v2fly | [Qv2ray/Qv2ray/releases](https://github.com/Qv2ray/Qv2ray/releases) |
+| Surge for Mac | * | * | [nssurge.com](https://nssurge.com) |
 
 
 ### iOS
 
 | 名称| 类型| 内核| URL|
 | :--- | :--- | :--- | :--- |
-| Shadowrocket | * | * | [app/id932747118](https://apps.apple.com/us/app/shadowrocket/id932747118) |
-| Quantumult | * | * | [app/id1252015438](https://apps.apple.com/us/app/quantumult/id1252015438) |
-| Quantumult X | * | * | [app/id1443988620](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
+| Shadowrocket | * | * | [app/id932747118](https://apps.apple.com/app/shadowrocket/id932747118) |
+| Quantumult | * | * | [app/id1252015438](https://apps.apple.com/app/quantumult/id1252015438) |
+| Quantumult X | * | * | [app/id1443988620](https://apps.apple.com/app/quantumult-x/id1443988620) |
+| Surge 4 | * | * | [app/id1442620678](https://apps.apple.com/app/surge-4/id1442620678) |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -140,12 +161,23 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📢機場推薦📢 
-⭐超過4年的老牌機場
+⭐技術流機場 4年老品牌,自研面板,支持UDP,遊戲主機加速
 >✈[GLaDOS] `https://glados.rocks`
->>🧑‍🤝‍🧑[邀請碼]`FRXB8-MR9N6-6K5SS-3GVHB`(3天使用時間)
+>>🧑‍🤝‍🧑[邀請碼] `FRXB8-MR9N6-6K5SS-3GVHB`(3天體驗時間)
+>>>🎫[優惠碼] `Of-Course-I-Still-Love-You`(滿100減50)
+>>>
+>>>🎫[優惠碼] `PORTALGUN`(滿100減50)
+>>>
+>>>🎫[優惠碼] `hunterx`(滿100減30)
 
-⭐只要充值1元就送奈飛 P站 X站高級會員賬號
->✈[速蛙雲FAST FROG] `https://i.sw19.icu/EqUb`
+⭐薯條(CNIX)是一家老牌翻牆機場,提供IPLC內網專線節點,翻牆協議為SS,薯條節點數量超多,並且有IPv6接入
+>✈[薯條CNIX] `https://xn--gmq396grzd.com`
+
+⭐别看了,买不起的
+>✈[佩奇Nexitally] `https://nexitally.net`
+
+⭐TAG採用SS翻牆協議,支持UDP,服務穩定可靠,提供的IEPL內網專線翻牆線路
+>✈[TAG] `https://taggood-5.xyz`
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -169,9 +201,9 @@
 
 ## 📢友情推薦📢 
 
-[![ghxi](https://github.com/ThekingMX1998/free-v2ray-code/raw/master/Image/ghboke-logo.png)](https://ghxi.com)
-[![52bd](https://github.com/ThekingMX1998/free-v2ray-code/raw/master/Image/52bd-logo.png)](https://www.52bd.net)
-[![kinh](https://github.com/ThekingMX1998/free-v2ray-code/raw/master/Image/kinh-logo.png)](https://kinh.cc)
-[![wuyong](https://github.com/ThekingMX1998/free-v2ray-code/raw/master/Image/wuyong-logo.png)](https://wuyong.fun)
+[![ghxi](https://github.com/ThekingMX1998/free-v2ray-code/raw/master/Image/Logo/ghboke-logo.png)](https://ghxi.com)
+[![52bd](https://github.com/ThekingMX1998/free-v2ray-code/raw/master/Image/Logo/52bd-logo.png)](https://www.52bd.net)
+[![kinh](https://github.com/ThekingMX1998/free-v2ray-code/raw/master/Image/Logo/kinh-logo.png)](https://kinh.cc)
+[![wuyong](https://cdn.jsdelivr.net/gh/ThekingMX1998/free-v2ray-code@master/Image/Logo/wuyong-logo.png)](https://wuyong.fun)
 
 
